@@ -1,5 +1,5 @@
 # Edyst-Codevita
-Codevita-2020 Course
+//Codevita-2020 Course
 Hey there all,
 This repository consists Solutions of Edyst-Codevita-2020 Course which I have implemented in Python
 You can find Question & Solution below in the same file.
